@@ -14,11 +14,11 @@ I am Jyotishka from India, and I strive to learn something new every day. I have
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/code-1819)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jyotishkade/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=code-1819)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=code-1819&show_icons=true&theme=chartreuse-dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-1819&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-1819&layout=pie&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=code-1819&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=code-1819&show_icons=true&theme=chartreuse-dark)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=code-1819)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=code-1819&show_icons=true&theme=chartreuse-dark)  
 
