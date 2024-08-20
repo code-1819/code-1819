@@ -20,7 +20,5 @@ I am Jyotishka from India, and I strive to learn something new every day. I have
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=code-1819&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/code-1819)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=code-1819)  
 
