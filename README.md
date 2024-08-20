@@ -12,7 +12,7 @@ I am Jyotishka from India, and I strive to learn something new every day. I have
 - ⚡ Fun fact: * ⚡  I'm a movie buff 🍿 📽️ and a Formula One enthusiast 🏎️ 🏁 
 
 #### Socials:
-[<img src='https://github.com/user-attachments/assets/5362823a-7ec0-40bd-b9ba-a7033a298f2a' alt='github' height='40'>](https://github.com/code-1819) 
+[<img src='https://github.com/user-attachments/assets/5362823a-7ec0-40bd-b9ba-a7033a298f2a' alt='github' height='100'>](https://github.com/code-1819) 
 [<img src='https://github.com/user-attachments/assets/6d9e554b-92a5-49f2-a756-6391ee22f58d'>](https://www.linkedin.com/in/jyotishkade/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=code-1819&show_icons=true&theme=chartreuse-dark)](https://github.com/ryo-ma/github-profile-trophy)
